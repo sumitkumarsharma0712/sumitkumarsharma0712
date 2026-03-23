@@ -17,6 +17,7 @@
 
 ---
 
+<img src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" width="200">
 
 # 📊 GitHub Stats:
 
@@ -34,6 +35,10 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sumitkumarsharma0712&icon=0&color=0)](https://visitcount.itsvg.in)
+
+---
+
+<div align="center">
 
   ## 💰 You can help me by Donating
   ![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)
