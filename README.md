@@ -47,9 +47,7 @@
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-<img src="https://nirzak-streak-stats.vercel.app/?user=sumitkumarsharma0712&theme=dark&hide_border=true" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitkumarsharma0712&theme=dark&hide_border=true&layout=compact" width="48%"/>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitkumarsharma0712&theme=dark&hide_border=true&layout=compact" width="48%"/>
 </p>
 
 ---
