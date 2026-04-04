@@ -86,6 +86,5 @@ If you like what I do, you can support me here:
 
 ---
 
-[❤️*Made with passion by ElonCoding*](https://github.com/ElonCoding)
 
 </div>
