@@ -86,5 +86,14 @@ If you like what I do, you can support me here:
 
 ---
 
+</div>
+<div align="center">
+  
+<img src="under-construction.gif">
 
+</div>
+
+<div align="center">
+  
+Made with ❤️ by [ElonCoding](https://github.com/ElonCoding)
 </div>
