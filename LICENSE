@@ -12,16 +12,11 @@ furnished to do so, subject to the following conditions:
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
 
-
-
 This project includes additional terms under Section 7 of the GNU Affero General Public License v3.
 
----
-
-## 1. Mandatory Core Attribution
+1. Mandatory Core Attribution
 
 The identifier **"ElonCoding"** is designated as a core attribution of this project.
-
 Any copy, modification, fork, or distribution of this work must preserve
 all existing references to "ElonCoding" wherever they appear, including but not limited to:
 - Source code headers
@@ -29,16 +24,11 @@ all existing references to "ElonCoding" wherever they appear, including but not 
 - Documentation (README, docs, etc.)
 - Visible attribution sections (if present)
 
----
-
-## 2. Contributor Attribution Protection
-
+2. Contributor Attribution Protection
 Any contributor who adds attribution (name, alias, GitHub ID, or identifiable credit)
 must have such attribution preserved in all copies, forks, and derivative works.
 
----
-
-## 3. No Removal or Obfuscation
+3. No Removal or Obfuscation
 
 No maintainer, owner, or downstream user may:
 - Remove
@@ -52,25 +42,17 @@ any attribution lines including:
 
 unless explicit permission is granted by the respective author.
 
----
 
-## 4. Attribution Scope
-
+4. Attribution Scope
 Attribution applies to:
 - Source code comments
 - NOTICE file entries
 - Documentation credits
 - Any existing attribution surface
 
----
-
-## 5. Violation Clause
-
+5. Violation Clause
 Removal or manipulation of required attribution constitutes a violation of this license
 and may result in termination of rights under Section 8 of AGPL v3.
 
----
-
-## 6. Supremacy
-
+6. Supremacy
 These terms supplement (not replace) AGPL v3 and apply to all distributed versions.
