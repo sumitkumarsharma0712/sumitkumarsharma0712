@@ -94,6 +94,6 @@ If you like what I do, you can support me here:
 </div>
 
 <div align="center">
+  made by me Sumit Kumar Sharma
   
-Made with ❤️ by [ElonCoding](https://github.com/ElonCoding)
 </div>
